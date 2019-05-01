@@ -1,11 +1,11 @@
-  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+   <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
   
   <item>
-  <title>thecoachingshow</title>
+  <title>Luis Fonsi</title>
   <thumbnail></thumbnail>
   <fanart></fanart>
   <link>http://igorame</link>
-  <externallink></externallink>
+  <externallink>https://raw.githubusercontent.com/bitcodestore/thecoachingshow/master/test1.xml</externallink>
   </item>
   
     <item>
@@ -13,7 +13,7 @@
   <thumbnail></thumbnail>
   <fanart></fanart>
   <link>http://igorame</link>
-  <externallink></externallink>
+  <externallink>https://raw.githubusercontent.com/bitcodestore/thecoachingshow/master/antoniolara.xml</externallink>
   </item>
   
     <item>
@@ -23,5 +23,4 @@
   <link>http://igorame</link>
   <externallink></externallink>
   </item>
-  
   
