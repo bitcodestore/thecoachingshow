@@ -40,7 +40,7 @@ YOUTUBE_CHANNEL_ID_16 = "PLCA9A9B18BE3342D8"
 YOUTUBE_CHANNEL_ID_17 = "PLRr9ttYZmQQ-aJ0HW5u-5B0JSLA6xPzPb" 
 YOUTUBE_CHANNEL_ID_130 = "PL9NMEBQcQqlzwlwLWRz5DMowimCk88FJk"
 YOUTUBE_CHANNEL_ID_133 = "PL4eNmxXg4ASoo7b1BHaje33pBMU4tyliW"
-YOUTUBE_CHANNEL_ID_138 = "PLqWKk2RlcD8Rm-vt6B_SP4JQZ2nxWYrxr"
+YOUTUBE_CHANNEL_ID_138 = "PL2YGoxbSbFUP5OBhn_fk4i0ovPI7RenDK"
 YOUTUBE_CHANNEL_ID_140 = "PLBW_HK0I-OKIj2LBDGM7Kglp5hkMvHdHd"
 YOUTUBE_CHANNEL_ID_141 = "PLBW_HK0I-OKIMOS1PEB_OIuMhoJubOwxp"
 # Entry point
@@ -78,7 +78,7 @@ def main_list(params):
 		
     plugintools.add_item( 
         #action="", 
-        title="Best Rock Songs Of All Time",
+        title="Educación Financiera",
         url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_138+"/",
         thumbnail="https://i.imgur.com/N4MUIUN.jpg",
         folder=True )
